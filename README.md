@@ -7,4 +7,4 @@ Starting from Basic:
 ARRAY:
 
 [Plus One](https://leetcode.com/problems/plus-one/)\
-[Yo]
+

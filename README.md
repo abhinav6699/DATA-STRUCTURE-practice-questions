@@ -1,5 +1,5 @@
 # DATA-STRUCTURE-practice-questions
-These are the questions I have solved to make my concept more strong
+These are the questions given by Learnbay to solve
 
 Starting from Basic:
 

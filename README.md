@@ -18,6 +18,9 @@ ARRAY:
 String:
 
 [Valid Palindrome](https://leetcode.com/explore/featured/card/top-interview-questions-easy/127/strings/883/)\
-[reverse integer](https://leetcode.com/explore/featured/card/top-interview-questions-easy/127/strings/880/)
+[reverse integer](https://leetcode.com/explore/featured/card/top-interview-questions-easy/127/strings/880/)\
+[Group Anagrams](https://leetcode.com/problems/group-anagrams/)\
+[Squares of Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
+
 
 

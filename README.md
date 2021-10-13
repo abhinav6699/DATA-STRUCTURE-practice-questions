@@ -12,8 +12,9 @@ ARRAY:
 [Max consecutive 1's](https://leetcode.com/problems/max-consecutive-ones/)\
 [Third Max number](https://leetcode.com/problems/third-maximum-number/)\
 [Height Checker](https://leetcode.com/explore/learn/card/fun-with-arrays/523/conclusion/3228)\
-[Sort Array by Parity](https://leetcode.com/explore/learn/card/fun-with-arrays/511/in-place-operations/3260)
-
+[Sort Array by Parity](https://leetcode.com/explore/learn/card/fun-with-arrays/511/in-place-operations/3260)\
+[Find Duplicates in an array](https://leetcode.com/problems/find-the-duplicate-number/submissions/)\
+\
 
 String:
 

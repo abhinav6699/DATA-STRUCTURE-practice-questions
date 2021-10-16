@@ -20,6 +20,7 @@ ARRAY:
 [Product of Array except Self](https://leetcode.com/problems/product-of-array-except-self/)\
 [3 Sum closest](https://leetcode.com/problems/3sum-closest/)\
 [Find the duplicate element](https://leetcode.com/explore/interview/card/top-interview-questions-hard/116/array-and-strings/834/)
+[Minimum Size Subarray sum](https://leetcode.com/problems/minimum-size-subarray-sum/)
 
 String:
 
@@ -30,6 +31,7 @@ String:
 [Integer to Roman](https://leetcode.com/problems/integer-to-roman/submissions/)\
 [Group Shift](https://leetcode.com/problems/group-shifted-strings/submissions/)\
 [Excel Sheet Column](https://leetcode.com/problems/excel-sheet-column-number/)\
+[Longest sub-string without repeating character](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 
 
 

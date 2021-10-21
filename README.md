@@ -36,9 +36,10 @@ String:
 [Excel Sheet Column](https://leetcode.com/problems/excel-sheet-column-number/)\
 [Longest sub-string without repeating character](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 
-Matrix:
+Pairs:
 
-[Meeting Rooms](https://leetcode.com/problems/meeting-rooms/)
+[Meeting Rooms](https://leetcode.com/problems/meeting-rooms/)\
+[Intervals List Intersections](https://leetcode.com/problems/interval-list-intersections/)
 
 
 

@@ -19,8 +19,11 @@ ARRAY:
 [Next Permutation](https://leetcode.com/problems/next-permutation/)\
 [Product of Array except Self](https://leetcode.com/problems/product-of-array-except-self/)\
 [3 Sum closest](https://leetcode.com/problems/3sum-closest/)\
-[Find the duplicate element](https://leetcode.com/explore/interview/card/top-interview-questions-hard/116/array-and-strings/834/)
-[Minimum Size Subarray sum](https://leetcode.com/problems/minimum-size-subarray-sum/)
+[Find the duplicate element](https://leetcode.com/explore/interview/card/top-interview-questions-hard/116/array-and-strings/834/)\
+[Minimum Size Subarray sum](https://leetcode.com/problems/minimum-size-subarray-sum/)\
+[Merge intervals](https://leetcode.com/problems/merge-intervals/)\
+[Permutation in string](https://leetcode.com/problems/permutation-in-string/)\
+[Subarray product less than K](https://leetcode.com/problems/subarray-product-less-than-k/)
 
 String:
 

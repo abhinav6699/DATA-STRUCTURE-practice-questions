@@ -39,7 +39,8 @@ String:
 Pairs:
 
 [Meeting Rooms](https://leetcode.com/problems/meeting-rooms/)\
-[Intervals List Intersections](https://leetcode.com/problems/interval-list-intersections/)
+[Intervals List Intersections](https://leetcode.com/problems/interval-list-intersections/)\
+[Find all anagrams in a string](https://leetcode.com/problems/find-all-anagrams-in-a-string/)
 
 
 

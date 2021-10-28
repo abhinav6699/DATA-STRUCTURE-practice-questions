@@ -40,7 +40,10 @@ Pairs:
 
 [Meeting Rooms](https://leetcode.com/problems/meeting-rooms/)\
 [Intervals List Intersections](https://leetcode.com/problems/interval-list-intersections/)\
-[Find all anagrams in a string](https://leetcode.com/problems/find-all-anagrams-in-a-string/)
+[Find all anagrams in a string](https://leetcode.com/problems/find-all-anagrams-in-a-string/)\
+[Maximum number of events that can be attended](https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended/)\
+[Insert Interval](https://leetcode.com/problems/insert-interval/)\
+[Meeting rooms 2](https://leetcode.com/problems/meeting-rooms-ii/)
 
 
 
